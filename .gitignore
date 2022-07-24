@@ -2,3 +2,4 @@ output-vagrant/
 output-virtualbox-iso/
 packer_cache/
 .vagrant/
+.dccache
